@@ -21,9 +21,9 @@
 #       - select chord type (major/minor)
 #           - select root note (output)
 
-import noteTableGen
-import userInput
+import notetablegen
+import userinput
 
-noteTableGen.noteGen()
-
-userInput.inputLoop()
+if __name__ == '__main__':
+    notetablegen.note_gen()
+    userinput.input_loop()
