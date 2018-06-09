@@ -1,5 +1,5 @@
 # Chord Frequency Mapper
-##<p style="text-align: center;">by Aidan Taylor</p>
+##Aidan Taylor. 2018.
 
 I made this project to leard a bit more about Python 3, I wanted to learn about generating, importing and exporting data. It's a basic tool, but it is functional.
 
